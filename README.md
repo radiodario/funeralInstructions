@@ -6,6 +6,7 @@ They say the ceremony is for families and friends, but I want mine to be for me.
 ### Venue
 The ceremony shall take place in a church, preferably one reconverted into a club, so that bar/food facilities are available for the guests.
 My body should be on display at exactly at the following position in the room:
+
     let w be the width of the room. (i.e. the long side)
     let h be the height of the room. (i.e. the short side of the room, not the height proper)
     let φ be the golden ratio.
