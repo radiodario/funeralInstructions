@@ -20,7 +20,7 @@ If something is in the way of that spot, feel free to slice the body/coffin accr
 #### Ambience Music and Reception
 Light music should be played during the social time, to allow guests to be at ease. I have an extensive record collection, so why not getting DJ KFO, if he's still alive, and making him play the records one after another in a nice and pleasing way.
 #### Live Performances
-I would like any and all of the following artists to be contacted to play a live performance - of any kind - at my ceremony. Please _do not offer money_ for them to play. They may only play if they agree to do so for free (and obviously, if they're still alive):
+I would like any and all of the following artists to be contacted to play a live performance - of any kind - at my ceremony. Please __do not offer money__ for them to play. They may only play if they agree to do so for free (and obviously, if they're still alive):
 * Simian Mobile Disco
 * Interpol
 * Meneo
@@ -30,5 +30,6 @@ I would like any and all of the following artists to be contacted to play a live
 * Patrick Wolf
 * Navigator (Sabrepulse + Shirobon)
 * Dan Deacon
+
 If, at the time of reading this, you think you know someone that might want to play at my funeral, please invite them to do so.
 
